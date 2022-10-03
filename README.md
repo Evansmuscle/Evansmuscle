@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yiğit Kaan</h1>
 <h3 align="center">A passionate full-stack dev with an addiction to open source and Linux (Arch Linux <3)</h3>
 
-- 🔭 I’m currently working on [A chat app named Chatty](https://github.com/Evansmuscle/Chatty)
+- 🔭 I’m currently working on [A file converter](https://github.com/Evansmuscle/file-converter)
 
 - 🌱 I’m currently learning **GraphQL, THREE.JS,**
 
