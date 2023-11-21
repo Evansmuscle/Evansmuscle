@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yiğit Kaan</h1>
 <h3 align="center">A passionate full-stack dev with an addiction to open source and Linux (Arch Linux <3)</h3>
 
-- 🔭 I’m currently working on [A file converter](https://github.com/Evansmuscle/file-converter)
+- 🔭 I’m currently working on [My personal website](https://kaankorkmaz.com)
 
-- 🌱 I’m currently learning **GraphQL, THREE.JS,**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on **Any project that i like**
 
@@ -11,11 +11,11 @@
 
 - 📝 I'm recently starting to write articles at [https://dev.to/kaankorkmaz](https://dev.to/kaankorkmaz)
 
-- 💬 Ask me about **React, GSAP, THREE.JS, NodeJS and NestJS**
+- 💬 Ask me about **React, NodeJS, GraphQL, PHP, NestJS, TypeScript or anything you like!**
 
 - 📫 How to reach me **katokorkmaz@gmail.com**
 
-- 📄 Here is my CV, so you can know about my experiences [https://docdro.id/muMTcnk](https://docdro.id/muMTcnk)
+- 📄 Here is my CV, so you can know about my experiences: [CV](black-gilly-6.tiiny.site)
 
 - ⚡ Fun fact **I'm addicted to math**
 
